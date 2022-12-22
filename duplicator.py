@@ -18,7 +18,6 @@ ignore = shutil.ignore_patterns(
 
 
 if __name__ == "__main__":
-    # Get arguments from command line
     path = sys.argv[1]
     word_to_replace = sys.argv[2]
     new_word = sys.argv[3]
