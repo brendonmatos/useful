@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 import yaml
 import sys
 
-
 load_dotenv()
 
 input = sys.argv[1]
