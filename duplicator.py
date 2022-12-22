@@ -14,7 +14,6 @@ ignore = shutil.ignore_patterns(
     "dist",
     "build",
     "venv",
-    "venv3",
 )
 
 
